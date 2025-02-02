@@ -1,0 +1,16 @@
+1;"Les fraises" 	Louis
+2;"La joie du Jazz" 	Louis
+3;"Le truc" 		Miles et Keith
+4;"Danger"		Jaco
+5;"Miaou"		Bill et Michael
+6;"Go à gogo"		Louis
+7;"Ouais"		Bill
+8;"La pente"		Stanislas
+9;"Le titre"		Charles et Louis
+10;"La danse ratée"	Miles
+11;"La chat poté"	Louis
+12;"Boum"		Miles
+13;"Yes"		Louis
+14;"La vie"		Bill
+15;"El preso"		Fruko
+16;"Kokoriko"		Miles
